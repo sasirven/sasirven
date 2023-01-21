@@ -3,11 +3,16 @@
 <!--
 **iShoFen/iShoFen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Samuel, 20 years old, a french student in computer science. <br/>
-Studying at : Universite Clermont-Auvergne, France <br/>
-                     Universite du Quebec à Chicoutimi, Canada <br/>
-Studies : two years Diploma in Computer Science : 2020-Now
+Samuel, 20 years old, a french student in computer science.  
 
+Studying at : 
+- Universite Clermont-Auvergne, France  
+- Universite du Quebec à Chicoutimi, Canada  
+
+Studies :  
+- Professional degree in Application development for mobile platforms : 2022-now  
+- Two years Diploma in Computer Science : 2020-2022  
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShoFen&layout=compact&show_icons=true&theme=tokyonight&langs_count=10)
 
 ### Stay Connected : 
@@ -26,21 +31,21 @@ Studies : two years Diploma in Computer Science : 2020-Now
         <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows10"/>
         <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
         <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
+        <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS"/>
 </p>
 
 ### Languages :
 
 <p align="left">
-        <img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white" alt="c"/>
         <img align="center" src="https://img.shields.io/badge/-C%23-239120?logo=C%20Sharp&style=for-the-badge&logoColor=white" alt="c#"/>
         <img align="center" src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&style=for-the-badge&logoColor=white" alt="c++"/>
+        <img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&style=for-the-badge&logoColor=white" alt="c"/>
+        <img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
+        <img align="center" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="swift"/>
         <img align="center" src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white" alt="java"/>
         <img align="center" src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&style=for-the-badge&logoColor=white" alt="python"/>
-        <img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=for-the-badge&logoColor=white" alt="html5"/>
-        <img align="center" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=for-the-badge&logoColor=white" alt="css3"/>
         <img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white" alt="php"/>
         <img align="center" src="https://img.shields.io/badge/-MYSQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" alt="mysql"/>
-        <img align="center" src="https://img.shields.io/badge/-ARDUINO-00979D?logo=Arduino&style=for-the-badge&logoColor=white" alt="arduino"/>
         <img align="center" src="https://img.shields.io/badge/-BASH-4EAA25?logo=GNU%20Bash&style=for-the-badge&logoColor=white" alt="bash"/>
 </p>
 
@@ -48,7 +53,8 @@ Studies : two years Diploma in Computer Science : 2020-Now
 
 <p align="left">
         <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)" alt=".net"/>
-        <img align="center" src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&style=for-the-badge&logoColor=white" alt="bootstrap"/>
+        <img align="center" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white alt="Xamarin"/>
+        <img align="center" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/>
 </p>
 
 ### Tools : 
