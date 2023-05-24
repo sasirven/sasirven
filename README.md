@@ -3,7 +3,7 @@
 <!--
 **iShoFen/iShoFen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Samuel, 20 years old, a french student in computer science.  
+Samuel, 21 years old, a french student in computer science.  
 
 Studying at : 
 - Universite Clermont-Auvergne, France  
