@@ -13,7 +13,7 @@ Studies :
 - Professional degree in Application development for mobile platforms : 2022-2023  
 - Two years Diploma in Computer Science : 2020-2022  
   
-![Top Langs](https://github-readme-stats-ishofen.vercel.app/api/top-langs/?username=iShoFen&exclude_repo=github-readme-stats&layout=compact&show_icons=true&theme=tokyonight&langs_count=10)
+![Top Langs](https://github-readme-stats-ishofen.vercel.app/api/top-langs/?username=iShoFen&exclude_repo=github-readme-stats,TarotMarcHelp,FakeNewsAI&hide=html,css,shell,ejs,objective-c%2B%2B,objective-c&layout=compact&show_icons=true&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5)
 
 ### Stay Connected : 
 
