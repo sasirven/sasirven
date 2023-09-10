@@ -3,14 +3,14 @@
 <!--
 **iShoFen/iShoFen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Samuel, 21 years old, a french student in computer science.  
+Samuel, 21 years old, a french developer at [Logiroad](https://logiroad.fr/)
 
-Studying at : 
+Studied at : 
 - Universite Clermont-Auvergne, France  
 - Universite du Quebec à Chicoutimi, Canada  
 
 Studies :  
-- Professional degree in Application development for mobile platforms : 2022-now  
+- Professional degree in Application development for mobile platforms : 2022-2023  
 - Two years Diploma in Computer Science : 2020-2022  
   
 ![Top Langs](https://github-readme-stats-ishofen.vercel.app/api/top-langs/?username=iShoFen&exclude_repo=github-readme-stats&layout=compact&show_icons=true&theme=tokyonight&langs_count=10)
