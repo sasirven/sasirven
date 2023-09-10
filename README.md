@@ -43,9 +43,10 @@ Studies :
         <img align="center" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/>
         <img align="center" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="swift"/>
         <img align="center" src="https://img.shields.io/badge/-JAVA-f89820?style=for-the-badge&logo=Java&logoColor=white" alt="java"/>
-        <img align="center" src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&style=for-the-badge&logoColor=white" alt="python"/>
+        <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>    
         <img align="center" src="https://img.shields.io/badge/-PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white" alt="php"/>
         <img align="center" src="https://img.shields.io/badge/-MYSQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" alt="mysql"/>
+        <img align="center" src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python&style=for-the-badge&logoColor=white" alt="python"/>
         <img align="center" src="https://img.shields.io/badge/-BASH-4EAA25?logo=GNU%20Bash&style=for-the-badge&logoColor=white" alt="bash"/>
 </p>
 
@@ -54,6 +55,7 @@ Studies :
 <p align="left">
         <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)" alt=".net"/>
         <img align="center" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white alt="Xamarin"/>
+        <img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB alt="React Native"/>
         <img align="center" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt"/>
 </p>
 
