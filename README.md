@@ -29,9 +29,9 @@ Studies :
 
 <p align="left">
         <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows10"/>
+        <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS"/>
         <img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" alt="linux"/>
         <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/>
-        <img align="center" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white" alt="macOS"/>
 </p>
 
 ### Languages :
