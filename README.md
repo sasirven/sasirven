@@ -19,7 +19,7 @@ Studies :
 
 [<img align="left" alt="samuel | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" />](https://www.linkedin.com/in/samuel-sirven-b49b53211/)
 
-[<img align="left" alt="ishofen | CodinGame" width="22px" src="https://static.codingame.com/assets/apple-touch-icon-192x192.0172d90b.png" />](https://www.codingame.com/profile/35b92283d183d5367070d2cb9b2250744423864)
+[<img align="left" alt="ishofen | CodinGame" width="22px" src="https://static.codingame.com/assets/favicon_32_32.61e066ad.ico" />](https://www.codingame.com/profile/35b92283d183d5367070d2cb9b2250744423864)
 
 [<img align="left" alt="ishofen | TryHackMe" width="44px" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" />](https://tryhackme.com/p/iShoFen) 
 
