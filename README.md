@@ -3,7 +3,7 @@
 <!--
 **iShoFen/iShoFen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Samuel, 21 years old, a french developer at [Logiroad](https://www.accenture.com/)
+Samuel, 21 years old, a french developer at [Accenture](https://www.accenture.com/)
 
 Studied at : 
 - Universite Clermont-Auvergne, France  
