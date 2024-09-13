@@ -13,11 +13,11 @@ Studies :
 - Professional degree in Application development for mobile platforms : 2022-2023  
 - Two years Diploma in Computer Science : 2020-2022  
   
-![Top Langs](https://github-readme-stats-ishofen.vercel.app/api/top-langs/?username=iShoFen&exclude_repo=github-readme-stats,TarotMarcHelp,FakeNewsAI&hide=html,css,shell,ejs,objective-c%2B%2B,objective-c&layout=compact&show_icons=true&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats-ishofen.vercel.app/api/top-langs/?username=sasirven&exclude_repo=github-readme-stats,TarotMarcHelp,FakeNewsAI&hide=html,css,shell,ejs,objective-c%2B%2B,objective-c&layout=compact&show_icons=true&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5)
 
 ### Stay Connected : 
 
-[<img align="left" alt="samuel | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520" />](https://www.linkedin.com/in/samuel-sirven-b49b53211/)
+[<img align="left" alt="samuel | LinkedIn" width="22px" src="https://www.linkedin.com/favicon.ico" />](https://www.linkedin.com/in/samuel-sirven-b49b53211/)
 
 [<img align="left" alt="ishofen | CodinGame" width="22px" src="https://static.codingame.com/assets/favicon_32_32.61e066ad.ico" />](https://www.codingame.com/profile/35b92283d183d5367070d2cb9b2250744423864)
 
